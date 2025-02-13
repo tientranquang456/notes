@@ -1,2 +1,9 @@
 theme: jekyll-theme-minimal
 show_downloads: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "{{ page.title }}"
