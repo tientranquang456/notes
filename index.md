@@ -1,5 +1,4 @@
 ---
-title: Notes List
 permalink: /
 ---
 
