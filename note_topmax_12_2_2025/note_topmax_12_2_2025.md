@@ -76,7 +76,9 @@ Giới thiệu sp đến kh (qc) qua các kênh:
 
 ![3_pheu_4_tang.png](./3_pheu_4_tang.png)
 
-# video 4 (vd phễu)
+Video vd phễu:
+
+[![4_vd_pheu](https://img.youtube.com/vi/CKm45drWLuY/0.jpg)](https://www.youtube.com/watch?v=CKm45drWLuY)
 
 ### TOP 100 mẫu câu HOOK
 
