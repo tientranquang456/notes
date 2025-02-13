@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Notes List
+permalink: /
 ---
 
 # Notes List
