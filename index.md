@@ -1,9 +1,9 @@
 ---
-layout: default
-title: My Markdown Files
+layout: page
+title: Notes List title
 ---
 
-# List of Markdown Files
+# Notes List
 
-- [Random Page 1](/random1)
-- [Random Page 2](/random2)
+- [Note 12/2/2025](/note_12_2_2025/note_12_2_2025.md)
+- [Note topmax 12/2/2025](/note_topmax_12_2_2025/note_topmax_12_2_2025.md)
