@@ -1,9 +1,2 @@
 theme: jekyll-theme-minimal
 show_downloads: false
-
-defaults:
-  - scope:
-      path: "_pages"
-      type: "pages"
-    values:
-      layout: "default"
