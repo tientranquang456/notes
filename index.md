@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Notes List title
 ---
 
 # Notes List
