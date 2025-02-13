@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Note topmax 12/2/2025
 permalink: /note_topmax_12_2_2025
 ---
 
